@@ -1,0 +1,1 @@
+CurePath is a comprehensive and intelligent iOS application designed to act as a personal first-aid and wound management assistant. It helps users identify acute medical injuries, provides immediate situational guidance, and tracks the healing progression over time.
